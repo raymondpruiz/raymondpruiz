@@ -1,2 +1,2 @@
-## Write Something Here in Markdown
-### It will display at the bottom of your repo.
+## Thank you for reading!
+### Let me know if you have any feedback for the author (me).
